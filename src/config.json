@@ -1,0 +1,6 @@
+{
+    "token": "discord token",
+    "mode": "start",
+    "channel_id": "channel id where you want the messages to be sent",
+    "bot_id": "id of the bot, since mudae has multiple accounts"
+}
